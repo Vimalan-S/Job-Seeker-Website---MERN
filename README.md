@@ -2,6 +2,11 @@
 
 Welcome to Job Seek, a comprehensive job-seeking platform built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This platform connects job seekers with recruiters, facilitating the job application and hiring process.
 
+# Usage
+Sign up as a job seeker or recruiter.
+As a job seeker, browse and apply for jobs.
+As a recruiter, post jobs and manage applicants.
+
 # Job Seeker Features
 View Jobs: Browse a list of available job opportunities.
 Search and Filter: Search jobs by keywords and filter by location, job type, and more.
